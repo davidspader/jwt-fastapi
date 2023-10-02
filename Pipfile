@@ -13,6 +13,7 @@ python-decouple = "*"
 passlib = "*"
 python-jose = "*"
 python-multipart = "*"
+pydantic = "*"
 
 [dev-packages]
 
